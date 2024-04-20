@@ -1,0 +1,25 @@
+-oNomeDoExe
+
+-inc
+-workdir=objs
+
+# Libs
+-lhbodbc
+-lodbc32
+-lhbwin
+-lxhb
+-lhbtip
+-lhbct
+-lhbmisc
+-lhbziparc
+-lminizip
+-lhbmzip
+-lhbtip
+-lhbnf
+-lhbxpp
+
+# Principal
+principal.prg
+
+# Objetos / Classes
+Classe.prg
